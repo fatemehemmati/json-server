@@ -1,0 +1,22 @@
+{
+  "posts":  [
+      {
+          "id":1,
+          "title":"first",
+          "body":"fh jhjg gfcgrdyjh",
+          "likes":30
+      },
+        {
+          "id":2,
+          "title":"second",
+          "body":"fh jhjg gfcgrdyjh",
+          "likes":30
+      },
+        {
+          "id":1,
+          "title":"third",
+          "body":"fh jhjg gfcgrdyjh",
+          "likes":30
+      }
+  ] 
+}
